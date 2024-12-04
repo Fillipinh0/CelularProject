@@ -1,0 +1,14 @@
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\bin\Debug\net8.0\CelularProject.exe
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\bin\Debug\net8.0\CelularProject.deps.json
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\bin\Debug\net8.0\CelularProject.runtimeconfig.json
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\bin\Debug\net8.0\CelularProject.dll
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\bin\Debug\net8.0\CelularProject.pdb
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.AssemblyInfoInputs.cache
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.AssemblyInfo.cs
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.csproj.CoreCompileInputs.cache
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.dll
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\refint\CelularProject.dll
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.pdb
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\CelularProject.genruntimeconfig.cache
+C:\Users\filli\Desktop\Nova pasta\Poo\CelularProject\obj\Debug\net8.0\ref\CelularProject.dll
